@@ -1,4 +1,5 @@
-AWS + NGINX Deployment step-by-Step Journal 
+---
+## AWS + NGINX Deployment step-by-Step Journal 
 ---
 
 <img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/ddcf63ae-8bdd-42b6-ae75-f277204185d8" />
